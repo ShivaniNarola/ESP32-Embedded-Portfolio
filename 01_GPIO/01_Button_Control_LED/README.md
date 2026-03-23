@@ -64,9 +64,3 @@ See demo.mp4
 See circuit.png
 
 ---
-
-## Future Improvements
-
-* Add debouncing
-* Use interrupt-based input
-* Extend to multi-click detection
